@@ -1,6 +1,0 @@
-D:\Misc\MadnessChecker\MadnessChecker\bin\Debug\MadnessChecker.exe.config
-D:\Misc\MadnessChecker\MadnessChecker\bin\Debug\MadnessChecker.exe
-D:\Misc\MadnessChecker\MadnessChecker\bin\Debug\MadnessChecker.pdb
-D:\Misc\MadnessChecker\MadnessChecker\obj\Debug\MadnessChecker.csprojResolveAssemblyReference.cache
-D:\Misc\MadnessChecker\MadnessChecker\obj\Debug\MadnessChecker.exe
-D:\Misc\MadnessChecker\MadnessChecker\obj\Debug\MadnessChecker.pdb
